@@ -73,13 +73,13 @@ main {
 }
 
 /* combining lower content h2 tags into one, as no differences */
-.our-services h2 {
+main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
 /* combining lower content img tags into one, as no differences */
-.our-services img {
+main img {
     max-height: 200px;
 }
 
